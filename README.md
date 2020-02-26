@@ -2,7 +2,7 @@
 
 create connection to connect with Web Services of The Revenue Department Thailand
 
-using [SOAP](https://www.npmjs.com/package/soap)
+using [SOAP](https://www.npmjs.com/package/soap) JavaScript library to connect with Service
 
 - search VAT data in this [link](https://www.rd.go.th/publish/313.0.html)
 - search VRT data in this [link](https://www.rd.go.th/publish/28015.0.html)
